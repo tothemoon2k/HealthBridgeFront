@@ -1,0 +1,15 @@
+{
+    "routes": [
+      { "src": "/b", "dest": "/" },
+      { "src": "/form", "dest": "/" },
+      { "src": "/login", "dest": "/" },
+      { "src": "/docportalv2", "dest": "/" },
+      { "src": "/confirmed", "dest": "/" },
+      { "src": "/team", "dest": "/" },
+      { "src": "/faq", "dest": "/" },
+      { "src": "/terms", "dest": "/" },
+      { "src": "/privacy", "dest": "/" },
+      { "src": "/hipaa", "dest": "/" },
+      { "src": "/telehealth", "dest": "/" }
+    ]
+}
