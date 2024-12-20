@@ -5,7 +5,7 @@ const Navbar = ({ absolute, button }) => {
     return (
         <nav className={`w-full h-10 flex items-center justify-between px-6 md:px-32 py-10 ${absolute ? 'absolute top-2' : ''}`}>
             <div className='flex gap-6 items-center'>
-                <a className='text-3xl font-medium' href="/">OnlineMed</a>
+                <a className='text-3xl font-medium' href="/">HealthBridge</a>
 
                 <div className='flex items-center gap-3 font-medium text-lg'>
                     <a className='' href="/">Home</a>
